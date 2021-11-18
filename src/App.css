@@ -1,0 +1,46 @@
+.App-Proximity {
+  background-image: url(./background.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.video-responsive {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+}
+
+.video-responsive iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
+.App-Title {
+  align-items: center;
+  justify-content: center;
+  font-size: calc(36px + 2vmin);
+  font-family: Century Gothic, sans-serif;
+  font-weight: bold;
+  color: #666230;
+  padding-bottom: 50px;
+}
+
+.App-Youtube {
+  width: 55vw;
+}
+
+.App-Description {
+  font-size: calc(10px + 2vmin);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: white;
+  padding-top: 50px;
+}
