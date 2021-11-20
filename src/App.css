@@ -31,6 +31,7 @@
   font-family: Century Gothic, sans-serif;
   font-weight: bold;
   color: #666230;
+  padding-top: 20px;
   padding-bottom: 50px;
 }
 
@@ -39,8 +40,27 @@
 }
 
 .App-Description {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 60%;
+  white-space: pre-wrap;
   font-size: calc(10px + 2vmin);
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   color: white;
   padding-top: 50px;
+  
+}
+
+a:link {
+  color : rgb(49, 146, 184);
+}
+a:visited {
+  color : rgb(62, 71, 201);
+}
+a:hover {
+  color : rgb(5, 255, 172);
+}
+a:active {
+  color : rgb(145, 205, 255)
 }
