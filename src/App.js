@@ -29,7 +29,7 @@ function App() {
         <YoutubeEmbed embedId="rokGy0huYEA" />
       </div>
       <p className="App-Description">
-        {"There are things you can see only when you look closer.\n\nChocolate giants have promised to end child labor in the industry for the past 15 years. However, 2.1 million children in western Africa are still suffering from dangerous and physically demanding cocoa cultivation work. They have been forcibly caught and abused for years regardless of their will. They are mobilized for unpaid labor by their own families, and are often asked for dangerous tasks such as harvesting with a machete or transferring about 45kg of fruit bags. Most of them can’t even dream of going to school.\nSource: "}<a href="https://www.sedaily.com/NewsVIew/1KWD1KG8BF">https://www.sedaily.com/NewsVIew/1KWD1KG8BF</a>
+        {"There are things you can see only when you look closer.\n\nChocolate giants have promised to end child labor in the industry for the past 15 years. However, 2.1 million children in western Africa are still suffering from dangerous and physically demanding cocoa cultivation work. They have been forcibly caught and abused for years regardless of their will. They are mobilized for unpaid labor by their own families, and are often asked for dangerous tasks such as harvesting with a machete or transferring about 45kg of fruit bags. Most of them can’t even dream of going to school.\n"}<a href="https://www.sedaily.com/NewsVIew/1KWD1KG8BF">Reference</a>
       </p>
     </div>
   );
