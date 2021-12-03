@@ -6,7 +6,7 @@ const YoutubeEmbed = ({ embedId }) => (
     <iframe
       width="1280"
       height="720"
-      src={`https://www.youtube.com/embed/_CKm801V9ls`}
+      src={`https://www.youtube.com/embed/DjxGnwZkh50`}
       frameBorder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
       allowFullScreen
